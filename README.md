@@ -1,3 +1,4 @@
+# Chaos AI Assistant - 免费 AI 助手 - 使用文档 
 # 简介 🛹
 
 原文档地址：[https://flowus.cn/fixm/share/227da662-efe4-41ae-bcd7-a5a1122ae525?code=AHJMZV](https://flowus.cn/fixm/share/227da662-efe4-41ae-bcd7-a5a1122ae525?code=AHJMZV)
